@@ -2,7 +2,7 @@ Background:
 - General history of the table
 - Notes on individual villains
 - Observations about your own image
-- Anything ele you believe relevant as context
+- Anything else you believe relevant as context
 
 Stakes:
 
