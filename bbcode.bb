@@ -59,3 +59,6 @@ UTG+3
 HJ
 CU
 BU
+
+[b]DO NOT POST THE RESULTS[/b]
+Posting the results of the hand can bias your thinking as well as that of others you may be sharing the hand with. For many discussion groups, it is the preferred standard to not post outcomes for first 48 hours. After that, feel free to share the outcome of the hand.
